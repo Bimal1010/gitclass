@@ -1,0 +1,9 @@
+git init
+git status
+git add 
+git commit
+
+
+
+git config --gloabl user.name "username"
+git config --global user.email "username@email.com"
