@@ -3,7 +3,19 @@ git status
 git add 
 git commit
 
-
-
 git config --gloabl user.name "username"
 git config --global user.email "username@email.com"
+
+we went to git hub
+created a repo
+pushed our commit
+
+git remote add origin <HTTPS:Link> https://github.com/metalaarif/gitclass.git
+git push -u origin master
+git clone <HTTPS:Link> https://github.com/metalaarif/gitclass.git
+
+git branch
+git branch <name>
+git branch -d <name>
+
+git checkout <branchname> # to move to other branch
